@@ -1,0 +1,9 @@
+{
+    "name": "jackey",
+    "age": 16,
+    "city":"Islamabad",
+    "canhandshake": true,
+    "istrained": true,
+    "owner": {"name": "Hira", "age": 27, "phone": "222-333", "issingle": false },
+    "favfood": ["bones","milk","biscuits"]
+}
